@@ -27,7 +27,7 @@ print(코로나)
 token = "1409195797:AAFv2WmJOm3zjJUuDYKeKkdSLgTiwvV6Fg8" 
 mc = "454953244"
 bot = telepot.Bot(token)
-bot.sendMessage(chat_id = '@economystory', text = 코로나)    
+bot.sendMessage(chat_id = '@covid_19_now', text = 코로나)    
 
 
 
